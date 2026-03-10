@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-
+namespace tpModul4_103082400036;
 public class KodePos
 {
     public string getKodePos(string kelurahan)
